@@ -1,0 +1,5 @@
+Name: echo workspace
+
+#!/usr/bin/env bash
+
+echo $GPTSCRIPT_WORKSPACE_DIR
