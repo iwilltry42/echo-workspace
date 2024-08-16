@@ -1,4 +1,5 @@
 Name: echo workspace
+Context: github.com/gptscript-ai/context/workspace
 
 #!/usr/bin/env bash
 
